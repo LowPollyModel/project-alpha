@@ -1,5 +1,4 @@
-# project-alpha
-My journey to becoming a financial analyst
+# Project alpha
 
 ## About
 Project Alpha is my long-term learning project focused on programming, finance, economics, and data analysis.
